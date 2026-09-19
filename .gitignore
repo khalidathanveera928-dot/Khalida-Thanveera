@@ -1,0 +1,19 @@
+.DS_Store
+.localized
+__pycache__/
+*.pyc
+*.pdf
+*.xlsx
+*.csv
+*.jpeg
+*.png
+*.jpg
+*.save
+StarSystemProject/
+PERSONAL PROJECT/
+PHD APPLICATION/
+Master thesis materials/
+
+lensing_simulation_FINAL.py
+lensing_simulation_working.py
+lensing_simulation_LENSING_BACKUP.py
